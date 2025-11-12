@@ -25,6 +25,7 @@ The goal of this assessment is to demonstrate strong engineering practices, code
 - Added **CORS** middleware to enable frontend communication.
 
 **Endpoints include:**
+
 | Method   | Endpoint               |       Description            |
 |----------|------------------------|----------------------------=-|
 | `POST`   | `/tasks/`              | Create a new task            |
@@ -144,8 +145,8 @@ Emphasized clarity, code readability, and clean commit history.
 
 ##  Author
 
-Vishnupriya Murki
- mvishnupriyaaa@gmail.com
+Kaushik Gaja
+
 
  GitHub Profile
 
